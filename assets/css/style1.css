@@ -1,0 +1,9 @@
+.badge  a{
+	color: white;
+}
+.order-table .badge-delete{
+	background: red;
+}
+.order-table .badge-edit{
+	background: blue;
+}
